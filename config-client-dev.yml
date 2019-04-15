@@ -1,3 +1,2 @@
-info:
-  profile: dev-bb_rests
-  from: git_TEST
+neo:
+ hello: dev
